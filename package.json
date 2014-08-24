@@ -1,7 +1,7 @@
 {
   "name": "blackboard-dark-mod",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "TextMate’s Blackboard syntax theme, visually compatible with Atom Dark UI.",
     "author": {
