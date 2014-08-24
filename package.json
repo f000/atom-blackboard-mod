@@ -9,8 +9,7 @@
     "url": "http://www.codeart.cz"
   },
   "repository": {
-    "type": "git",
-    "url": "git@github.com:f000/atom-blackboard-mod.git"
+    "url": "https://github.com/f000/atom-blackboard-mod"
   },
   "bugs": {
     "url": "https://github.com/f000/atom-blackboard-mod/issues"
