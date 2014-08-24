@@ -1,6 +1,23 @@
-.editor, .editor .gutter {
-	background-color: #0C1021;
-	color: #F8F8F8;
+.editor-colors {
+  background-color: #1d1f21;
+}
+
+.editor{
+  color: #F8F8F8;
+  .invisible-character {
+    font-weight: normal !important;
+    font-style: normal !important;
+    color: #666;
+    opacity:0.9;
+  }
+  .indent-guide {
+    display: inline-block;
+    box-shadow: inset 1px 0 #FF6400;
+    opacity:0.2
+  }
+  .gutter {
+    background-color: #0C1021;
+  }
 }
 
 .editor.is-focused .cursor {

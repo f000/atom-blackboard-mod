@@ -1,16 +1,29 @@
 {
-	"name": "blackboard",
-	"theme": "syntax",
-	"version": "0.1.0",
-	"private": true,
-	"description": "TextMate’s Blackboard syntax theme, ported to Atom.",
-	"repository": "https://github.com/mathiasbynens/atom-blackboard",
-	"bugs": {
-		"url": "https://github.com/mathiasbynens/atom-blackboard/issues"
-	},
-	"homepage": "https://github.com/mathiasbynens/atom-blackboard",
-	"license": "MIT",
-	"engines": {
-		"atom": ">0.60.0"
-	}
+  "name": "blackboard-dark-mod",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "private": false,
+  "description": "TextMate’s Blackboard syntax theme, visually compatible with Atom Dark UI.",
+    "author": {
+    "name": "Lukas Vorlicek",
+    "url": "http://www.codeart.cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:f000/atom-blackboard-mod.git"
+  },
+  "bugs": {
+    "url": "https://github.com/f000/atom-blackboard-mod/issues"
+  },
+  "keywords": [
+    "blackboard",
+    "atom",
+    "textmate",
+    "theme"
+  ],
+  "homepage": "https://github.com/f000/atom-blackboard-mod",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.60.0"
+  }
 }
